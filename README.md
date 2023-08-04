@@ -1,3 +1,3 @@
 # Land the Rocket
 
-We created this game with the Group A, isnpired by the mobile game Mars.
+We created this game with the Group B, isnpired by the mobile game Mars.
